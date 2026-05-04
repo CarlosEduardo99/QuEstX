@@ -26,10 +26,5 @@ The core objective of this study is to evaluate the generalization capabilities 
 *   **Quantum Framework:** Qiskit (Circuit-to-DAG conversion and FakeBackend simulations)
 *   **Deep Learning:** PyTorch Geometric (Graph Transformer with Multi-head Self-attention)
 
-## 📂 Repository Structure
-*   `/src`: Implementation of the Graph Transformer architecture and regression head.
-*   `/data`: Scripts and pipelines for generating D1 and D2 datasets via noisy simulation.
-*   `/experiments`: Documentation and code for the three experimental axes (E1, E2, E3).
-
 ## 🔮 Future Work
 Planned extensions include the creation of **Dataset D3** (covering up to 50 qubits) and the implementation of **continuous positional encoding** to overcome current representational limitations as we approach the quantum advantage threshold.
